@@ -1,0 +1,38 @@
+{ // NOTE: Please do remove the comments before running.
+  "cities": [ 
+    "CITY A", // list of all the cities to include in dataset (vertex)
+    "CITY B",
+    "CITY C"
+  ],
+  "links": [
+    {
+      "city_1": "CITY A", // a link between two cities (edge)
+      "city_2": "CITY B",
+      "time": 38, // time in minutes
+      "distance": 18
+    },
+    {
+      "city_1": "CITY B",
+      "city_2": "CITY C",
+      "time": 60, 
+      "distance": 42 
+    }
+  ],
+  "towns": [
+    {
+      "city": "CITY B",
+      "towns": [ 
+        "TOWN 1", // list of all towns for a particular city (vertex) 
+        "TOWN 2"
+      ],
+      "links": [
+        {
+          "town_1": "TOWN 1", // a link between two towns of a city (edge)
+          "town_2": "TOWN 2",
+          "time": 14, // time in minutes
+          "distance": 3.5
+        }
+      ]
+    }
+  ]
+}
