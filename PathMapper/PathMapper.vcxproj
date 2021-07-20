@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{2730c447-a452-420e-a1e6-ff49e0f61b17}</ProjectGuid>
-    <RootNamespace>Project</RootNamespace>
+    <RootNamespace>PathMapper</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>PathMapper</ProjectName>
   </PropertyGroup>

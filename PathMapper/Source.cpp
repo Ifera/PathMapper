@@ -161,7 +161,7 @@ public:
 	void main_screen() {
 		int ch;
 		
-		cout << "PATH FINDER" << endl;
+		cout << "PATH MAPPER" << endl;
 		cout << endl;
 		cout << "To exit anywhere within the program, enter X" << endl;
 		cout << endl;
