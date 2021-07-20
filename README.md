@@ -1,6 +1,6 @@
 ## PathMapper
 
-A data structures project utilizing Dijkistra algorithm and AdjacencyList to find the shortest path between two nodes.
+A data structures project utilizing Dijkistra algorithm and Adjacency List to find the shortest path between two nodes.
 
 ## Overview
 
@@ -13,7 +13,8 @@ We were told to make use of what we had learned of Data Structures over the cour
 - The path should be based on either shortest **time taken** or shortest **distance required**.
 
 We were also made to find the time complexity of the entire project. <br />
-All the requirements of the project were fulfilled with homegrown Adjancency List and Dijkistra algorithm.
+All the requirements of the project were fulfilled with homegrown Adjancency List and Dijkistra algorithm. <br />
+The complete project manual can be found [here](https://github.com/Ifera/PathMapper/blob/master/meta/Manual.pdf).
 
 ## Layout
 
