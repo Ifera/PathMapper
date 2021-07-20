@@ -1,0 +1,690 @@
+{
+  "cities": [
+    "Lahore",
+    "Raiwind",
+    "Kasur",
+    "Pattoki",
+    "Okara",
+    "Sahiwal",
+    "Khanewal",
+    "Sheikhupura",
+    "Faisalabad",
+    "Gojra",
+    "Multan",
+    "Lodhran",
+    "Khanpur",
+    "Rahim Yar Khan",
+    "Ghotki",
+    "Kashmore",
+    "Sukkur",
+    "Larkana",
+    "Moro",
+    "Nawabshah",
+    "Hyderabad",
+    "Thatta",
+    "Karachi",
+    "Muridke",
+    "Shahdara",
+    "Chunian",
+    "Jaranwala",
+    "Muzaffargarh",
+    "Sargodha",
+    "Kallar Kahar",
+    "Gujranwala",
+    "Jhang",
+    "Gujrat",
+    "Kharian",
+    "Jhelum",
+    "Gujar Khan",
+    "Rawalpindi",
+    "Islamabad",
+    "Shahiwal",
+    "Chakwal",
+    "Sukheke",
+    "Pindi Bhattian",
+    "Kot Momin",
+    "Bhera",
+    "Chakri"
+  ],
+  "links": [
+    {
+      "city_1": "Lahore",
+      "city_2": "Shahdara",
+      "time": 38,
+      "distance": 18
+    },
+    {
+      "city_1": "Lahore",
+      "city_2": "Raiwind",
+      "time": 60,
+      "distance": 42
+    },
+    {
+      "city_1": "Shahdara",
+      "city_2": "Kasur",
+      "time": 97,
+      "distance": 81
+    },
+    {
+      "city_1": "Raiwind",
+      "city_2": "Kasur",
+      "time": 62,
+      "distance": 28
+    },
+    {
+      "city_1": "Raiwind",
+      "city_2": "Chunian",
+      "time": 70,
+      "distance": 45
+    },
+    {
+      "city_1": "Pattoki",
+      "city_2": "Chunian",
+      "time": 28,
+      "distance": 18
+    },
+    {
+      "city_1": "Pattoki",
+      "city_2": "Okara",
+      "time": 50,
+      "distance": 30
+    },
+    {
+      "city_1": "Okara",
+      "city_2": "Sahiwal",
+      "time": 51,
+      "distance": 47
+    },
+    {
+      "city_1": "Shahiwal",
+      "city_2": "Khanewal",
+      "time": 121,
+      "distance": 130
+    },
+    {
+      "city_1": "Jaranwala",
+      "city_2": "Shahdara",
+      "time": 100,
+      "distance": 114
+    },
+    {
+      "city_1": "Gojra",
+      "city_2": "Faisalabad",
+      "time": 73,
+      "distance": 79
+    },
+    {
+      "city_1": "Gojra",
+      "city_2": "Khanewal",
+      "time": 100,
+      "distance": 142
+    },
+    {
+      "city_1": "Jaranwala",
+      "city_2": "Khanewal",
+      "time": 157,
+      "distance": 215
+    },
+    {
+      "city_1": "Khanewal",
+      "city_2": "Multan",
+      "time": 54,
+      "distance": 61
+    },
+    {
+      "city_1": "Multan",
+      "city_2": "Muzaffargarh",
+      "time": 49,
+      "distance": 38
+    },
+    {
+      "city_1": "Khanewal",
+      "city_2": "Muzaffargarh",
+      "time": 89,
+      "distance": 98
+    },
+    {
+      "city_1": "Multan",
+      "city_2": "Khanpur",
+      "time": 167,
+      "distance": 233
+    },
+    {
+      "city_1": "Khanpur",
+      "city_2": "Rahim Yar Khan",
+      "time": 63,
+      "distance": 49
+    },
+    {
+      "city_1": "Multan",
+      "city_2": "Rahim Yar Khan",
+      "time": 177,
+      "distance": 264
+    },
+    {
+      "city_1": "Kashmore",
+      "city_2": "Rahim Yar Khan",
+      "time": 105,
+      "distance": 110
+    },
+    {
+      "city_1": "Rahim Yar Khan",
+      "city_2": "Ghotki",
+      "time": 120,
+      "distance": 159
+    },
+    {
+      "city_1": "Ghotki",
+      "city_2": "Sukkur",
+      "time": 73,
+      "distance": 85
+    },
+    {
+      "city_1": "Sukkur",
+      "city_2": "Larkana",
+      "time": 90,
+      "distance": 83
+    },
+    {
+      "city_1": "Sukkur",
+      "city_2": "Moro",
+      "time": 149,
+      "distance": 160
+    },
+    {
+      "city_1": "Moro",
+      "city_2": "Nawabshah",
+      "time": 82,
+      "distance": 80
+    },
+    {
+      "city_1": "Nawabshah",
+      "city_2": "Hyderabad",
+      "time": 120,
+      "distance": 113
+    },
+    {
+      "city_1": "Moro",
+      "city_2": "Hyderabad",
+      "time": 158,
+      "distance": 174
+    },
+    {
+      "city_1": "Hyderabad",
+      "city_2": "Karachi",
+      "time": 148,
+      "distance": 164
+    },
+    {
+      "city_1": "Thatta",
+      "city_2": "Karachi",
+      "time": 108,
+      "distance": 102
+    },
+    {
+      "city_1": "Thatta",
+      "city_2": "Hyderabad",
+      "time": 109,
+      "distance": 101
+    },
+    {
+      "city_1": "Lahore",
+      "city_2": "Sheikhupura",
+      "time": 66,
+      "distance": 56
+    },
+    {
+      "city_1": "Sheikhupura",
+      "city_2": "Faisalabad",
+      "time": 109,
+      "distance": 96
+    },
+    {
+      "city_1": "Faisalabad",
+      "city_2": "Jhang",
+      "time": 105,
+      "distance": 96
+    },
+    {
+      "city_1": "Jhang",
+      "city_2": "Sargodha",
+      "time": 163,
+      "distance": 126
+    },
+    {
+      "city_1": "Sargodha",
+      "city_2": "Kallar Kahar",
+      "time": 118,
+      "distance": 121
+    },
+    {
+      "city_1": "Kallar Kahar",
+      "city_2": "Chakwal",
+      "time": 42,
+      "distance": 27
+    },
+    {
+      "city_1": "Chakwal",
+      "city_2": "Rawalpindi",
+      "time": 108,
+      "distance": 108
+    },
+    {
+      "city_1": "Rawalpindi",
+      "city_2": "Islamabad",
+      "time": 53,
+      "distance": 28
+    },
+    {
+      "city_1": "Chakwal",
+      "city_2": "Islamabad",
+      "time": 109,
+      "distance": 126
+    },
+    {
+      "city_1": "Lahore",
+      "city_2": "Gujranwala",
+      "time": 113,
+      "distance": 99
+    },
+    {
+      "city_1": "Gujranwala",
+      "city_2": "Gujrat",
+      "time": 67,
+      "distance": 49
+    },
+    {
+      "city_1": "Gujrat",
+      "city_2": "Kharian",
+      "time": 55,
+      "distance": 40
+    },
+    {
+      "city_1": "Kharian",
+      "city_2": "Jhelum",
+      "time": 38,
+      "distance": 30
+    },
+    {
+      "city_1": "Jhelum",
+      "city_2": "Gujar Khan",
+      "time": 69,
+      "distance": 61
+    },
+    {
+      "city_1": "Gujar Khan",
+      "city_2": "Rawalpindi",
+      "time": 78,
+      "distance": 52
+    },
+    {
+      "city_1": "Lahore",
+      "city_2": "Sukheke",
+      "time": 55,
+      "distance": 114
+    },
+    {
+      "city_1": "Sukheke",
+      "city_2": "Pindi Bhattian",
+      "time": 28,
+      "distance": 22
+    },
+    {
+      "city_1": "Pindi Bhattian",
+      "city_2": "Kot Momin",
+      "time": 38,
+      "distance": 50
+    },
+    {
+      "city_1": "Kot Momin",
+      "city_2": "Bhera",
+      "time": 35,
+      "distance": 42
+    },
+    {
+      "city_1": "Bhera",
+      "city_2": "Kallar Kahar",
+      "time": 40,
+      "distance": 48
+    },
+    {
+      "city_1": "Kallar Kahar",
+      "city_2": "Chakri",
+      "time": 50,
+      "distance": 77
+    },
+    {
+      "city_1": "Chakri",
+      "city_2": "Rawalpindi",
+      "time": 50,
+      "distance": 43
+    },
+    {
+      "city_1": "Chakri",
+      "city_2": "Islamabad",
+      "time": 54,
+      "distance": 60
+    }
+  ],
+  "towns": [
+    {
+      "city": "Karachi",
+      "towns": [
+        "Baldia",
+        "Gulshan-e-Ghazi",
+        "Faird Colony",
+        "Hazarvi Colony",
+        "Orangi Town",
+        "Nazimabad",
+        "Liaqatabad",
+        "Gulshan-e-Iqbal",
+        "Abidabad",
+        "Malir",
+        "Shah Faisal Town",
+        "Bin Qasim Town",
+        "Landhi Town",
+        "Bahria Town Karachi",
+        "Kharadar",
+        "Clifton",
+        "DHA Karachi",
+        "Shershah Colony",
+        "Lalazar",
+        "Teen Talwar",
+        "Frere Hall",
+        "Saddar",
+        "Empress Market",
+        "Gazdarabad",
+        "Farid Colony"
+      ],
+      "links": [
+        {
+          "town_1": "Baldia",
+          "town_2": "Gulshan-e-Ghazi",
+          "time": 14,
+          "distance": 3.5
+        },
+        {
+          "town_1": "Gulshan-e-Ghazi",
+          "town_2": "Faird Colony",
+          "time": 9,
+          "distance": 2.2
+        },
+        {
+          "town_1": "Farid Colony",
+          "town_2": "Hazarvi Colony",
+          "time": 2,
+          "distance": 1
+        },
+        {
+          "town_1": "Orangi Town",
+          "town_2": "Gulshan-e-Ghazi",
+          "time": 16,
+          "distance": 5
+        },
+        {
+          "town_1": "Orangi Town",
+          "town_2": "Nazimabad",
+          "time": 14,
+          "distance": 7
+        },
+        {
+          "town_1": "Nazimabad",
+          "town_2": "Liaqatabad",
+          "time": 14,
+          "distance": 7
+        },
+        {
+          "town_1": "Liaqatabad",
+          "town_2": "Gulshan-e-Iqbal",
+          "time": 20,
+          "distance": 11
+        },
+        {
+          "town_1": "Gulshan-e-Iqbal",
+          "town_2": "Abidabad",
+          "time": 37,
+          "distance": 18
+        },
+        {
+          "town_1": "Gulshan-e-Iqbal",
+          "town_2": "Shah Faisal Town",
+          "time": 18,
+          "distance": 10
+        },
+        {
+          "town_1": "Shah Faisal Town",
+          "town_2": "Abidabad",
+          "time": 43,
+          "distance": 24
+        },
+        {
+          "town_1": "Gulshan-e-Iqbal",
+          "town_2": "Malir",
+          "time": 32,
+          "distance": 16
+        },
+        {
+          "town_1": "Malir",
+          "town_2": "Shah Faisal Town",
+          "time": 27,
+          "distance": 12
+        },
+        {
+          "town_1": "Shah Faisal Town",
+          "town_2": "Landhi Town",
+          "time": 18,
+          "distance": 11
+        },
+        {
+          "town_1": "Shah Faisal Town",
+          "town_2": "Bin Qasim Town",
+          "time": 39,
+          "distance": 30
+        },
+        {
+          "town_1": "Gulshan-e-Iqbal",
+          "town_2": "Bahria Town Karachi",
+          "time": 44,
+          "distance": 37
+        },
+        {
+          "town_1": "Kharadar",
+          "town_2": "Clifton",
+          "time": 8,
+          "distance": 5
+        },
+        {
+          "town_1": "Clifton",
+          "town_2": "DHA Karachi",
+          "time": 11,
+          "distance": 6
+        },
+        {
+          "town_1": "Shah Faisal Town",
+          "town_2": "DHA Karachi",
+          "time": 29,
+          "distance": 19
+        },
+        {
+          "town_1": "Baldia",
+          "town_2": "Shershah Colony",
+          "time": 28,
+          "distance": 13
+        },
+        {
+          "town_1": "Shershah Colony",
+          "town_2": "Kharadar",
+          "time": 15,
+          "distance": 7
+        },
+        {
+          "town_1": "Kharadar",
+          "town_2": "Lalazar",
+          "time": 5,
+          "distance": 2
+        },
+        {
+          "town_1": "Lalazar",
+          "town_2": "Clifton",
+          "time": 12,
+          "distance": 7
+        },
+        {
+          "town_1": "Clifton",
+          "town_2": "Teen Talwar",
+          "time": 5,
+          "distance": 3
+        },
+        {
+          "town_1": "Teen Talwar",
+          "town_2": "Frere Hall",
+          "time": 6,
+          "distance": 2
+        },
+        {
+          "town_1": "Frere Hall",
+          "town_2": "Saddar",
+          "time": 5,
+          "distance": 3
+        },
+        {
+          "town_1": "Saddar",
+          "town_2": "Empress Market",
+          "time": 3,
+          "distance": 1
+        },
+        {
+          "town_1": "Empress Market",
+          "town_2": "Gazdarabad",
+          "time": 3,
+          "distance": 2
+        },
+        {
+          "town_1": "Empress Market",
+          "town_2": "Lalazar",
+          "time": 11,
+          "distance": 5
+        }
+      ]
+    },
+    {
+      "city": "Lahore",
+      "towns": [
+        "Ravi Town",
+        "Shalimar",
+        "Wagah Town",
+        "Aziz Bhatti Town",
+        "Samanabad",
+        "Data Gunj Bakhsh",
+        "Gulberg",
+        "Iqbal Town",
+        "Lahore Cantt",
+        "Nishtar"
+      ],
+      "links": [
+        {
+          "town_1": "Ravi Town",
+          "town_2": "Wagah Town",
+          "time": 23,
+          "distance": 18
+        },
+        {
+          "town_1": "Ravi Town",
+          "town_2": "Samanabad",
+          "time": 21,
+          "distance": 9
+        },
+        {
+          "town_1": "Data Gunj Bakhsh",
+          "town_2": "Gulberg",
+          "time": 22,
+          "distance": 12
+        },
+        {
+          "town_1": "Data Gunj Bakhsh",
+          "town_2": "Samanabad",
+          "time": 13,
+          "distance": 10
+        },
+        {
+          "town_1": "Data Gunj Bakhsh",
+          "town_2": "Shalimar",
+          "time": 18,
+          "distance": 7
+        },
+        {
+          "town_1": "Gulberg",
+          "town_2": "Lahore Cantt",
+          "time": 21,
+          "distance": 11
+        },
+        {
+          "town_1": "Gulberg",
+          "town_2": "Samanabad",
+          "time": 20,
+          "distance": 11
+        },
+        {
+          "town_1": "Samanabad",
+          "town_2": "Iqbal Town",
+          "time": 10,
+          "distance": 4
+        },
+        {
+          "town_1": "Iqbal Town",
+          "town_2": "Nishtar",
+          "time": 24,
+          "distance": 11
+        },
+        {
+          "town_1": "Nishtar",
+          "town_2": "Wagah Town",
+          "time": 36,
+          "distance": 30
+        },
+        {
+          "town_1": "Wagah Town",
+          "town_2": "Shalimar",
+          "time": 17,
+          "distance": 8
+        },
+        {
+          "town_1": "Shalimar",
+          "town_2": "Lahore Cantt",
+          "time": 29,
+          "distance": 19
+        },
+        {
+          "town_1": "Aziz Bhatti Town",
+          "town_2": "Wagah Town",
+          "time": 20,
+          "distance": 12
+        },
+        {
+          "town_1": "Iqbal Town",
+          "town_2": "Gulberg",
+          "time": 16,
+          "distance": 8
+        },
+        {
+          "town_1": "Lahore Cantt",
+          "town_2": "Aziz Bhatti Town",
+          "time": 29,
+          "distance": 17
+        },
+        {
+          "town_1": "Aziz Bhatti Town",
+          "town_2": "Shalimar",
+          "time": 22,
+          "distance": 10
+        },
+        {
+          "town_1": "Ravi Town",
+          "town_2": "Data Gunj Bakhsh",
+          "time": 9,
+          "distance": 2
+        }
+      ]
+    }
+  ]
+}
