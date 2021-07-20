@@ -4,7 +4,7 @@ A data structures project utilizing Dijkistra algorithm and AdjacencyList to fin
 
 ## Overview
 
-**PathMapper** - An end semester project for **EC-200 Data Structure** course. <br />
+**PathMapper** - An end semester project for **EC-200 Data Structure** course. <br /><br />
 We were told to make use of what we had learned of Data Structures over the course of the semester and make a program that had the following features:
 
 - Map shortest path between two cities (inter-city).
